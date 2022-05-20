@@ -32,7 +32,7 @@ img {
 	;
 }
 
-@media (max-width: 1200px) {
+@media(max-width: 1200px) {
 	.estrutura {
 		grid-template-areas: 
 		 "header header header"
@@ -44,7 +44,7 @@ img {
 }
 
 
-@media (max-width: 770px) {
+@media(max-width: 770px) {
 	.estrutura {
 		grid-template-columns: 100%;
 		grid-template-areas: 
